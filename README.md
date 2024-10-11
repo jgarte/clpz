@@ -2,7 +2,7 @@
 
 This repository contains information about **CLP(ℤ)**.
 
-CLP(ℤ) requires **SICStus Prolog**.
+CLP(ℤ) requires [**Scryer Prolog**](https://www.scryer.pl/).
 
 As of April 2020, a version of this library ships with
 Scryer&nbsp;Prolog as <tt>library(clpz)</tt>.
